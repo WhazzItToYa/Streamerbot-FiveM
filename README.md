@@ -14,3 +14,7 @@ In a Streamer.bot action:
 * Run Action "Send FiveM Console Command", with Run Immediately = Checked.
 
 The import includes a couple of sample actions that set the crosshair to different styles.
+
+## Acknowledgements
+
+Thank you to Josh for the Stream Deck plugin [FX Commands](https://github.com/josh-tf/fxcommands), from which this code borrows extensively.
